@@ -1,0 +1,18 @@
++ - dodawanie 2 + 2
+- - odejmowanie 2 - 2
+* - mnożenie 2 * 2
+/ - dzielenie 2 / 2
+// - dzielenie całkowite 2 // 2
+% - dzielenie z resztą 2 % 2
+not -
+= - jest równe x = 4 
+=/= = nierówność 2 =/= 4
+> - większe niż 4 > 2
+< - mniejsze niż 2 < 4
+<= - większe lub równe 4 <= 4
+=> - mniejsze lub równe 4 => 4
+if - operator "jeśli" np. if x = 4 to wykonaj polecenie 
+is - operator który sprawdza czy dwie zmienne wskazują tą samą wartość/obiekt 
+or - operator znaczący "lub" x or y = 4
+and - operator znaczący "i" x and y = 4 
+
